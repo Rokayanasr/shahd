@@ -4,7 +4,7 @@
 
 @font-face {
     font-family: Cairo;
-    src: url('../public/Cairo-VariableFont_slnt\,wght.ttf');
+    src: url('./../public/Cairo-VariableFont_slnt\,wght.ttf');
 }
 body{
   background-color: #ffff;
