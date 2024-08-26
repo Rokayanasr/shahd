@@ -4,8 +4,8 @@ import StarRate from "./components/StarRate";
 function App() {
     return (
         <>
-            <section className='m-4 md:m-12 rounded-md bg-tw-bgColor px-6 py-10 md:p-8'>
-                <div className='flex flex-col md:gap-12 gap-4  mb-8 px-2 lg:px-8'>
+            <section className='m-2 md:m-12 rounded-md bg-tw-bgColor px-4 py-10 md:p-8'>
+                <div className='flex flex-col md:gap-12 gap-4  mb-8 px-4 lg:px-8'>
                     <div className='flex flex-col md:flex-row md:gap-12 gap-4 md:justify-between w-full'>
                         <div className='flex flex-col md:gap-12 gap-4 items-start justify-end basis-1/2'>
                             <h2 className='sm:text-3xl text-xl  text-tw-primary font-black'>
@@ -40,7 +40,7 @@ function App() {
                         <h4 className='lg:font-bold font-black text-lg lg:text-base text-tw-primary'>الزمن متبقي للتقييم: يوم و7 ساعات</h4>
                     </div>
                 </div>
-                <div className='px-2 py-8 md:p-8 rounded-md bg-tw-secondary md:gap-12 gap-8 flex flex-col'>
+                <div className='px-4 py-8 md:p-8 rounded-md bg-tw-secondary md:gap-12 gap-8 flex flex-col'>
                     <div className='flex flex-col gap-8'>
                         <h3 className='lg:text-lg text-2xl font-black lg:font-bold text-tw-primary'>تفاصيل الرد:</h3>
                         <div className='flex items-center justify-center'>
