@@ -1,0 +1,10 @@
+.section-dimension{
+  width: 1433px;
+  height: 2037px;
+}
+
+audio::-webkit-media-controls-play-button,
+     audio::-webkit-media-controls-panel {
+     background-color: #EAECF3;
+     color: #f95636 !important;
+     }
