@@ -1,10 +1,13 @@
-.section-dimension{
-  width: 1433px;
-  height: 2037px;
+@font-face {
+  font-family: Cairo;
+  src: url('./../public/Cairo-VariableFont_slnt\,wght.ttf');
+}
+body{
+background-color: #ffff;
+font-family: Cairo, sans-serif;
 }
 
 audio::-webkit-media-controls-play-button,
      audio::-webkit-media-controls-panel {
      background-color: #EAECF3;
-     color: #f95636 !important;
      }
